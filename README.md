@@ -1,6 +1,13 @@
 # Charva Dueller
 
+> [!WARNING]
+> **This repository is currently not functional.** The build system depends on `repo.essential.gg` which is no longer accessible. The mod cannot be built in its current state.
+
 A Minecraft 1.8.9 Forge mod for dueling functionality.
+
+## Current Status
+
+This mod is in early development and is **not ready for use**. The build configuration needs to be updated to use alternative repositories for the Architectury Loom plugin.
 
 ## About
 
